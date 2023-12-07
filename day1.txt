@@ -1,0 +1,1 @@
+nterestingly, and importantly for a complete understanding of whats going on in this guide, its vital to understand that Git uses cryptographically secure storage, this means if you repeat the commands pasted here verbatim, you will have the same commit hash.

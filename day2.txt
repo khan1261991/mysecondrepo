@@ -1,0 +1,1 @@
+This means that if we wanted to change the commit message, we couldnt without changing the hash of this commit, which means its not the same commit anymore; if you had already pushed this to a remote and then wanted to change the commit message youd have to push with --force which can be really dangerous if anyone or anything else already pulled those commits.
